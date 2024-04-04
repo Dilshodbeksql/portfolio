@@ -16,11 +16,12 @@ export default function Hero() {
 					<div className='flex flex-col-reverse  gap-15 lg:flex lg:flex-row items-center'>
 						<div className='flex flex-col gap-10 lg:items-start items-center text-center lg:text-start	'>
 							<h1 className='text-6xl font-bold mt-10 lg:mt-0'>
-								Front-end React Developer 👋
+								DI Group CEO 👋
 							</h1>
 							<p className='text-xl w-full lg:w-2/3'>
-								Hi, im Aidyn Meiramkhanuly. A passionate Front-end React
-								Developer based in Taraz, Kazakhstan. 📍
+								Сәлем, Мен Дилшодбек Турсынбаевпін. Кәсікермін инвестормын блогермін. 
+								Тараз қаласында алғаш кәсібімді бастағанмын. Қазір масштабқа 
+								Алматы қаласына шығып жатырмын. 📍
 							</p>
 							<div className='flex gap-5'>
 								<button>
@@ -32,11 +33,11 @@ export default function Hero() {
 							</div>
 						</div>
 						<Image
-							src='/herobg.jpeg'
-							className='hero-animate float-right brightness-150'
+							src='/boy.jpg'
+							className='hero-animate float-right '
 							width={400}
 							height={400}
-							alt='heroBg'
+							alt='boy.png'
 						/>
 					</div>
 					<div className='stack flex flex-col lg:flex-row lg:flex gap-3 lg:gap-10 mt-20 items-center'>

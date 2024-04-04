@@ -15,15 +15,15 @@ export default function About() {
 							className='rounded-xl'
 							width={400}
 							height={400}
-							alt='heroBg'
+							alt='boy.png'
 						/>
 						<div className='flex flex-col gap-5 lg:items-start items-center text-center lg:text-start	'>
 							<h1 className='text-3xl font-semibold mt-10 lg:mt-0'>
 								Front-end Developer based in Taraz, Kazakhstan📍
 							</h1>
 							<p className='text-xl w-full text-secondary'>
-								Hey, my name is Aidyn, and I&apos;m a Frontend Developer. My
-								passion is to create and develop a clean UI/UX for my users.
+								Hey, my name is Dilshod, and I&apos;m 20 year. My projects: 
+								DI Group: Appstore,Qrduck_kz and investethions.
 							</p>
 							<p className='text-secondary'>
 								My main stack currently is{' '}
